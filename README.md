@@ -1,4 +1,4 @@
-##Hi 👋! My name is Jesus and I'm a Making Bugs, from México c:
+<h3 align="left">Hi 👋! My name is Jesus and I'm a Making Bugs, from México c:</h3>
 
 ###
 
