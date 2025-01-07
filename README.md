@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Jesus and I'm a Making Bugs, from México c:</h3>
+<h2 align="left">Hi 👋! My name is Jesus and I'm a Front End developer, from México</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/arroyoolalde097">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=arroyoolalde097&count=5" alt="Spotify recently played"  />
   </a>
